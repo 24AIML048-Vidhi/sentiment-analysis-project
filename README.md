@@ -37,25 +37,6 @@ This project trains a machine learning model using a labeled dataset and deploys
 
 ---
 
-## Project Structure
-
-SentimentAnalysis/
-│
-├── app.py          # Flask backend
-├── model.py        # Model training
-├── clean.py        # Text preprocessing
-├── main.py         # Console testing
-├── data.csv        # Dataset
-├── README.md
-│
-├── templates/
-│     └── index.html
-│
-├── static/
-│     └── style.css
-
----
-
 ## Example
 
 Input:
